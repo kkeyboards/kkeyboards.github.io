@@ -7,14 +7,7 @@
             "creator":"facebook",
             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/emoji/facebook/facebook_60.png"
         },
-         {
-            "name": "IOS",
-            "size": "3.53 MB",
-            "id": 2,
-            "item": 61,
-            "creator":"ios",
-            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/emoji/ios/ios_60.png"
-        }, {
+        {
             "name": "Twitter",
              "size": "2.45 MB",
              "id": 3,
