@@ -4,6 +4,7 @@
             "size": " 230 kB",
             "stickerid": 1,
             "item": 26,
+             "type": "png",
             "creator":"",
             "img": "https://kstic.github.io/s/1/2.png"
         },
@@ -20,6 +21,7 @@
             "size": "668 kB",
             "stickerid": 4,
              "item": 20,
+             "type": "png",
             "creator":"",
              "img": "https://kstic.github.io/s/4/89.png"
         },{
@@ -27,6 +29,7 @@
             "size": "440 kB",
             "stickerid": 5,
             "item": 18,
+             "type": "png",
             "creator":"",
              "img": "https://kstic.github.io/s/5/110.png"
         },{
@@ -34,6 +37,7 @@
             "size": "352 kB",
             "stickerid": 6,
             "item": 30,
+             "type": "png",
             "creator":"",
              "img": "https://kstic.github.io/s/6/145.png"
         },{
@@ -41,6 +45,7 @@
             "size": " 886 kB",
             "stickerid": 7,
             "item": 40,
+             "type": "png",
             "creator":"",
              "img": "https://kstic.github.io/s/7/157.png"
         }
