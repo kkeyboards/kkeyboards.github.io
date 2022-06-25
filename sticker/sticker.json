@@ -6,7 +6,7 @@
             "item": 26,
              "type": "png",
             "creator":"",
-            "img": "https://kstic.github.io/s/1/2.png"
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/1/1.png"
         },
          {
             "name": "Happy",
@@ -14,7 +14,7 @@
             "stickerid": 2,
             "item": 48,
             "creator":"",
-            "img": "https://kstic.github.io/s/2/31.png"
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/2/1.png"
        
         },{
             "name": "Hello",
@@ -23,7 +23,7 @@
              "item": 20,
              "type": "png",
             "creator":"",
-             "img": "https://kstic.github.io/s/4/89.png"
+             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/4/1.png"
         },{
             "name": "Panda",
             "size": "440 kB",
@@ -31,7 +31,7 @@
             "item": 18,
              "type": "png",
             "creator":"",
-             "img": "https://kstic.github.io/s/5/110.png"
+             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/5/1.png"
         },{
             "name": "Fancy",
             "size": "352 kB",
@@ -39,7 +39,7 @@
             "item": 30,
              "type": "png",
             "creator":"",
-             "img": "https://kstic.github.io/s/6/145.png"
+             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/6/1.png"
         },{
             "name": "Happy & Cry",
             "size": " 886 kB",
@@ -47,7 +47,15 @@
             "item": 40,
              "type": "png",
             "creator":"",
-             "img": "https://kstic.github.io/s/7/157.png"
+             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/7/1.png"
+        },{
+            "name": "LOVE KITTEN",
+            "size": " 886 kB",
+            "stickerid": 8,
+            "item": 4,
+             "type": "gif",
+            "creator":"",
+             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/7/1.png"
         }
         
     ]
