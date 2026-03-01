@@ -1,72 +1,37 @@
 {
     "Wallpaper": [
         {
-            "name": "Featured",
-            "items": [
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/1.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/2.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/4.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/18.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/football/1.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/football/3.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/4.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/7.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/anime/1.jpg"
-                },
-                {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/football/2.jpg"
-                }
-            ]
-        },
-        {
             "name": "Latest",
             "items": [
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/1.jpg"
+                    "img": "latest/1.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/2.jpg"
+                    "img": "latest/2.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/3.jpg"
+                    "img": "latest/3.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/4.jpg"
+                    "img": "latest/4.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/6.jpg"
+                    "img": "latest/6.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/7.jpg"
+                    "img": "latest/7.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/8.jpg"
+                    "img": "latest/8.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/10.jpg"
+                    "img": "latest/10.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/11.jpg"
+                    "img": "latest/11.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/latest/12.jpg"
+                    "img": "latest/12.jpg"
                 }
             ]
         },
@@ -74,28 +39,28 @@
             "name": "Game",
             "items": [
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/1.jpg"
+                    "img": "game/1.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/2.jpg"
+                    "img": "game/2.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/4.jpg"
+                    "img": "game/4.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/6.jpg"
+                    "img": "game/6.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/7.jpg"
+                    "img": "game/7.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/8.jpg"
+                    "img": "game/8.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/9.jpg"
+                    "img": "game/9.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/game/10.jpg"
+                    "img": "game/10.jpg"
                 }
             ]
         },
@@ -103,25 +68,25 @@
             "name": "Fancy",
             "items": [
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/1.jpg"
+                    "img": "funcy/1.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/2.jpg"
+                    "img": "funcy/2.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/3.jpg"
+                    "img": "funcy/3.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/4.jpg"
+                    "img": "funcy/4.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/5.jpg"
+                    "img": "funcy/5.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/6.jpg"
+                    "img": "funcy/6.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/funcy/7.jpg"
+                    "img": "funcy/7.jpg"
                 }
             ]
         },
@@ -129,16 +94,16 @@
             "name": "Anime",
             "items": [
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/anime/1.jpg"
+                    "img": "anime/1.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/anime/2.jpg"
+                    "img": "anime/2.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/anime/3.jpg"
+                    "img": "anime/3.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/anime/4.jpg"
+                    "img": "anime/4.jpg"
                 }
             ]
         },
@@ -146,13 +111,13 @@
             "name": "Football",
             "items": [
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/football/5.jpg"
+                    "img": "football/5.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/football/6.jpg"
+                    "img": "football/6.jpg"
                 },
                 {
-                    "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/wallpaper/football/7.jpg"
+                    "img": "football/7.jpg"
                 }
             ]
         }
