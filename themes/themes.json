@@ -4,5 +4,11 @@
             "size": "10 MB",
             "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/mythemes.zip",
             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/1/1.png"
+        },
+          {
+            "name": "My Neo",
+            "size": "10 MB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/neo.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/2/1.png"
         }
 ]
