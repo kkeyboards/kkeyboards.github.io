@@ -3,12 +3,12 @@
             "name": "IOS Emoji",
             "size": "10 MB",
             "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/emoji/font/AppleColorEmoji.ttf",
-            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/1/1.png"
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/emoji/font/AppleColorEmoji.jpg"
         },
         {
             "name": "JoyPixel10",
             "size": "10 MB",
             "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/emoji/font/JoyPixel10.ttf",
-            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/sticker/1/1.png"
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/emoji/font/AppleColorEmoji.jpg"
         }
 ]
