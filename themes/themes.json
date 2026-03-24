@@ -1,20 +1,20 @@
 [
         {
-            "name": "My Themes",
-            "size": "10 MB",
-            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/mythemes.zip",
+            "name": "Ice White",
+            "size": "90 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white.zip",
             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white.jpg"
         },
           {
             "name": "My Neo",
             "size": "10 MB",
             "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/neo.zip",
-            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white.jpg"
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white2.jpg"
         },
         {
-          "name": "My Neo",
+          "name": "My D",
           "size": "10 MB",
           "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/neo.zip",
-          "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white.jpg"
+          "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white2.jpg"
       }
 ]
