@@ -10,5 +10,11 @@
             "size": "10 MB",
             "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/neo.zip",
             "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white.jpg"
-        }
+        },
+        {
+          "name": "My Neo",
+          "size": "10 MB",
+          "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/neo.zip",
+          "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white.jpg"
+      }
 ]
