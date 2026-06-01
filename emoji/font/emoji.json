@@ -1,3 +1,8 @@
 [
-      
+       {
+            "name": "Twemoji",
+            "size": "3.7 MB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/emoji/font/twemoji.ttf",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/emoji/font/twemoji.jpg"
+        }
 ]
