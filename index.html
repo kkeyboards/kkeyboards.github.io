@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>K Keyboard</title>
+  <meta name="description" content="K Keyboard — a fast, beautiful Myanmar keyboard for Android with themes, emoji and translation." />
+
+  <!-- Fonts: Fraunces (serif display) + Inter (body) + Noto Sans Myanmar -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&family=Noto+Sans+Myanmar:wght@400;600&display=swap" rel="stylesheet" />
+
+  <link rel="icon" type="image/png" href="assets/logo.png" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ============ SECTION 1 — HERO ============ -->
+  <header class="hero">
+    <div class="hero__bg-blob"></div>
+
+    <div class="container hero__inner">
+      <div class="hero__text">
+        <span class="eyebrow"><span class="eyebrow__dot"></span> Myanmar Keyboard</span>
+
+        <h1 class="display">
+          Type Myanmar,<br />
+          <em>beautifully.</em>
+        </h1>
+
+        <p class="lead">
+          K Keyboard brings fast Myanmar typing, gorgeous themes,
+          emoji and built-in translation — all in one keyboard,
+          tuned for every Android phone.
+        </p>
+
+        <!-- Google Play only (no iOS version) -->
+        <div class="hero__cta">
+          <a class="store-badge" href="https://play.google.com/store/apps/details?id=mm.kst.keyboard.myanmar" target="_blank" rel="noopener">
+            <img src="assets/googleplay.png" alt="Get it on Google Play" />
+          </a>
+        </div>
+      </div>
+
+      <!-- Hero screenshot (already a phone mockup) -->
+      <div class="hero__phone">
+        <img class="shot shot--hero" src="assets/hero.png" alt="K Keyboard app" />
+      </div>
+    </div>
+  </header>
+
+  <!-- ============ SECTION 2 — THEME SHOWCASE ============ -->
+  <section class="showcase" id="themes">
+    <div class="container">
+      <div class="showcase__head">
+        <span class="eyebrow eyebrow--center"><span class="eyebrow__dot"></span> Themes</span>
+        <h2 class="display display--2">
+          Your themes,<br />
+          <em>in your pocket</em>
+        </h2>
+        <p class="lead lead--center">
+          Pick from dozens of keyboard themes, download new ones any time,
+          and make your keyboard truly yours.
+        </p>
+      </div>
+
+      <!-- Carousel of real screenshots (each is already a phone mockup) -->
+      <div class="carousel">
+        <div class="carousel__track" id="track">
+          <div class="slide"><img class="shot" src="assets/shot1.png" alt="K Keyboard screenshot 1" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot2.png" alt="K Keyboard screenshot 2" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot3.png" alt="K Keyboard screenshot 3" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot4.png" alt="K Keyboard screenshot 4" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot5.png" alt="K Keyboard screenshot 5" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot6.png" alt="K Keyboard screenshot 6" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot7.png" alt="K Keyboard screenshot 7" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot8.png" alt="K Keyboard screenshot 8" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot9.png" alt="K Keyboard screenshot 9" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot10.png" alt="K Keyboard screenshot 10" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot11.png" alt="K Keyboard screenshot 11" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot12.png" alt="K Keyboard screenshot 12" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot13.png" alt="K Keyboard screenshot 13" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot14.png" alt="K Keyboard screenshot 14" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot15.png" alt="K Keyboard screenshot 15" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot16.png" alt="K Keyboard screenshot 16" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot17.png" alt="K Keyboard screenshot 17" loading="lazy" /></div>
+          <div class="slide"><img class="shot" src="assets/shot18.png" alt="K Keyboard screenshot 18" loading="lazy" /></div>
+        </div>
+
+        <div class="carousel__controls">
+          <button class="carousel__btn" id="prev" aria-label="Previous">&#8249;</button>
+          <div class="carousel__dots" id="dots"></div>
+          <button class="carousel__btn" id="next" aria-label="Next">&#8250;</button>
+        </div>
+      </div>
+
+      <a class="policy-link" href="https://kkeyboards.github.io/policy/" target="_blank" rel="noopener">Privacy Policy</a>
+    </div>
+  </section>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="brand">
+        <img class="brand__logo" src="assets/logo.png" alt="" />
+        <span class="brand__name">K Keyboard</span>
+      </div>
+      <p class="footer__copy">&copy; 2026 K Keyboard. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
