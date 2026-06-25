@@ -48,11 +48,14 @@
 
     <span class="section-title">III. Translation Feature (Network Access)</span>
     <p>
-        When you use the built-in translation tool, the text you input is sent to a secure third-party provider (Microsoft Translator). 
+        When you use the built-in translation tool, the text you input is sent to a secure third-party provider (Microsoft Translator).
         <ul>
             <li>Data is transmitted via encrypted <strong>HTTPS</strong>.</li>
             <li>The text is used only for the translation process.</li>
-            <li>We do not store your translated text or link it to your identity.</li>
+            <li>To make translation faster and reduce cost, translations may be stored in an <strong>anonymous cache</strong>. Each entry is keyed by a one-way hash and contains <strong>no name, account, device ID, or any identifier</strong> — a cached entry cannot be traced back to you.</li>
+            <li>Text that appears to contain personal data (such as emails or phone numbers) is <strong>never cached</strong>.</li>
+            <li>Cached translations are <strong>automatically deleted after 90 days</strong> of no use.</li>
+            <li>We never link translations to your identity.</li>
         </ul>
     </p>
 
@@ -79,7 +82,7 @@
     </p>
 
     <p>
-        <strong>Regarding Data Deletion:</strong> K Keyboard does not store your personal data or translation history on our own servers. However, translation services are provided by third-party providers (Microsoft Translator). These third parties may process and store data in accordance with their own privacy policies. Since we do not have direct access to or control over data stored by these third parties, we cannot directly fulfill data deletion requests for the information processed by them.
+        <strong>Regarding Data Deletion:</strong> K Keyboard does not store personal data that identifies you. The only translation data we keep is an <strong>anonymous cache</strong> of translated text that contains no identifier and cannot be linked to you; these entries are automatically deleted after 90 days of no use. Translation itself is performed by a third-party provider (Microsoft Translator), which may process and store data under its own privacy policy; since we do not control that data, we cannot directly fulfill deletion requests for information processed by them. If you would like a specific cached translation removed, you can email us and we will delete it.
     </p>
 
     <h2>3. Children's Privacy</h2>
