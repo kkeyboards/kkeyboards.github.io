@@ -97,7 +97,7 @@ body {
   display: grid; grid-template-columns: 1.05fr 0.95fr;
   gap: 40px; align-items: center;
 }
-.hero__cta { margin-top: 30px; }
+.hero__cta { margin-top: 30px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
 .hero__phone { display: flex; justify-content: center; }
 
 /* ---------- Real screenshot images (already phone mockups) ---------- */
