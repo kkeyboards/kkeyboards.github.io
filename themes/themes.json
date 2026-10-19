@@ -1,5 +1,35 @@
 [
         {
+            "name": "Tazaungdaing",
+            "size": "162 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/tazaungdaing.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/tazaungdaing.jpg"
+        },
+        {
+            "name": "Christmas",
+            "size": "187 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/christmas.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/christmas.jpg"
+        },
+        {
+            "name": "Sakura",
+            "size": "208 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/sakura.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/sakura.jpg"
+        },
+        {
+            "name": "Deep Ocean",
+            "size": "197 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/deep_ocean.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/deep_ocean.jpg"
+        },
+        {
+            "name": "Synthwave",
+            "size": "183 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/synthwave.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/synthwave.jpg"
+        },
+        {
             "name": "Ice White",
             "size": "90 kB",
             "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/ice_white.zip",
