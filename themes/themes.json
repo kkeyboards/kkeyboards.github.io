@@ -1,5 +1,35 @@
 [
         {
+            "name": "Golden Pagoda",
+            "size": "196 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/golden_pagoda.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/golden_pagoda.jpg"
+        },
+        {
+            "name": "Candy Pop",
+            "size": "259 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/candy_pop.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/candy_pop.jpg"
+        },
+        {
+            "name": "Kitty",
+            "size": "250 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/kitty.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/kitty.jpg"
+        },
+        {
+            "name": "Galaxy",
+            "size": "297 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/galaxy.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/galaxy.jpg"
+        },
+        {
+            "name": "Aurora",
+            "size": "279 kB",
+            "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/aurora.zip",
+            "img": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/aurora.jpg"
+        },
+        {
             "name": "Tazaungdaing",
             "size": "162 kB",
             "data": "https://raw.githubusercontent.com/kkeyboards/kkeyboards.github.io/master/themes/tazaungdaing.zip",
